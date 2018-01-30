@@ -31,10 +31,5 @@ While performing accept(), a new socket is created by the server, which now comm
 
 Both peers can message each other using TCP sockets, and also send files to and fro using the TCP stream AND UDP datagram too.
 
-Google Drive Link
------------------
-
-The Google Drive link to the source code is: https://drive.google.com/open?id=0B3-J9wHSpcYNdzBCUVowSTEtZEE
-
 
 
